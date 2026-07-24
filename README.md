@@ -30,7 +30,7 @@ Currently in advanced negotiations with sovereign wealth funds and major energy 
 | **Zayed Sustainability Prize** | 2026 | 🌍 Semi-finalist |
 | **Temasek Singapore** | 2026 | 🎯 Top 8 Finalist |
 | **Gulbenkian Prize for Humanity** | 2026 | 📝 Nominee |
-| **Alexander von Humboldt Foundation** | — | 🎓 Host Researcher (Water Section) |
+| **Alexander von Humboldt Foundation** | 2026 | 🎓 Host Researcher (Water Section) |
 
 ---
 
