@@ -1,4 +1,4 @@
-# وحید نظامیوند چگونه – Vahid Nezamivand Chegane
+# Vahid Nezamivand Chegane
 
 **Interdisciplinary Researcher | Systems Architect | Founder of Universal Framework**
 
