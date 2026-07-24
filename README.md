@@ -14,7 +14,7 @@ Currently in advanced negotiations with sovereign wealth funds and major energy 
 
 ## ✅ Field Projects
 
-- **AquaNexus Pilot (Iran) – 500 Households**
+- **AquaNexus Pilot (Iran) – 50 Households**
   - 70-80% reduction in municipal water use
   - 120 kg/year/household food production
   - 2.8 tCO₂e sequestration per household per year
