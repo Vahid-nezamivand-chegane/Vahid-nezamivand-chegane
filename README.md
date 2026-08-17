@@ -65,9 +65,7 @@ A verified collection of **180+ international certificates** in AI, water-climat
 - 🆔 **ORCID:** [0009-0003-6477-091X](https://orcid.org/0009-0003-6477-091X)
 - 📁 **Certificates:** [`tinyurl.com/Vahid-nezamivand-chegane`](https://tinyurl.com/Vahid-nezamivand-chegane)
 - 🌐 **Project Website:** [`https://Vahid-nezamivand-chegane.github.io`](https://Vahid-nezamivand-chegane.github.io)
-- 💼 **LinkedIn:** [`https://www.linkedin.com/in/vahidnezamivand`](https://www.linkedin.com/in/vahidnezamivand)
-
----
+- 💼 **LinkedIn:**[`https://www.linkedin.com/in/vahid-nezamevand-chegane`]
 
 ## 📧 Contact Information
 
