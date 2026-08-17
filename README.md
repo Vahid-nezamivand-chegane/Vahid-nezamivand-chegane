@@ -1,5 +1,3 @@
-حتماً، نسخه نهایی با فرمت زیبا و حرفه‌ای برای لینکدین، وب‌سایت، یا هر جایی که نیاز دارید، آماده شده است.  ---
-
 Vahid Nezamivand Chegane
 Interdisciplinary Researcher | Systems Architect | Founder of AquaNexus Project
 
