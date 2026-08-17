@@ -119,9 +119,7 @@ A verified collection of **180+ international certificates** from:
 |:---|:---|
 | **Project Email** | `vahid.aquanexus@protonmail.com` |
 | **General Email** | `vahidmaykoltarh@yahoo.com` |
-| **Phone** | `+98 990 181 4212` |
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vahid-nezamivand-chegane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
