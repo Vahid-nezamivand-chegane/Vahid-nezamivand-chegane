@@ -1,76 +1,64 @@
-# Vahid Nezamivand Chegane
+حتماً، نسخه نهایی با فرمت زیبا و حرفه‌ای برای لینکدین، وب‌سایت، یا هر جایی که نیاز دارید، آماده شده است.  ---
 
-**Interdisciplinary Researcher | Systems Architect | Founder of Universal Framework**
+Vahid Nezamivand Chegane
+Interdisciplinary Researcher | Systems Architect | Founder of AquaNexus Project
 
----
+About Me
 
-## 🔬 About Me
+Independent researcher and systems architect with over 10 years of experience in water, energy, geothermal systems, AI, and sustainable infrastructure. Founder of the AquaNexus project – a fully integrated zero-carbon platform delivering 7 independent revenue streams: 24/7 baseload power, fresh water, lithium, precious metals, 4-season agriculture, district heating/cooling, and geothermal tourism. The platform is scalable from 100 MW to 1,000 GW, with a total project value exceeding $10 billion.
 
-Independent researcher and systems architect specializing in **water, energy, geothermal systems, AI, and sustainable infrastructure**. Founder of the **AquaNexus** project – a fully integrated zero-carbon platform delivering 7 independent revenue streams (24/7 baseload power, fresh water, lithium, precious metals, 4-season agriculture, heating/cooling, and geothermal tourism). The platform is deployable across 9 strategic countries with a total project value of $2.5 billion (pilot) and $15+ billion (national scale).
+Currently in advanced negotiations with 9 sovereign wealth funds and 120 global companies, including OIA Oman, PIF Saudi Arabia, Mubadala UAE, ADIA UAE, QIA Qatar, KIA Kuwait, Temasek Singapore, GIC Singapore, and GPIF Japan.
 
-Currently in advanced negotiations with sovereign wealth funds and major energy companies including OIA Oman, PIF Saudi Arabia, Mubadala UAE, QIA Qatar, Temasek Singapore, and GPIF Japan.
+Field Projects
 
----
+AquaNexus Pilot (Iran) – 500 Households
+67% reduction in municipal water consumption
+120 kg/year/household food production
+2.5 tCO₂e saved per household per year
+70% women-led green jobs creation
 
-## ✅ Field Projects
+Awards and Recognition
 
-- **AquaNexus Pilot (Iran) – 50 Households**
-  - 70-80% reduction in municipal water use
-  - 120 kg/year/household food production
-  - 2.8 tCO₂e sequestration per household per year
-  - 3-5 green jobs per village (70% women-led)
+Energy Globe Award 2024 - National Winner (Iran)
+Zayed Sustainability Prize 2026 - Semi-finalist
+Temasek Singapore 2026 - Top 8 Finalist
+Gulbenkian Prize for Humanity 2026 - Official Nominee
+Alexander von Humboldt Foundation 2026 - Host Researcher (Water Section) – Declined to prioritise Oman
 
----
+Publications
 
-## 🏆 Awards & Recognition
+Recent Publication:
+"AquaNumerica: A Philosophical-Numerical Framework for Integrated Water-Food-Climate Resilience"
+Vahid Nezamivand Chegane, 2026 – Zenodo | Open Access
 
-| Award | Year | Status |
-|-------|------|--------|
-| **Energy Globe Award** | 2024 | 🏆 National Winner (Iran) |
-| **Zayed Sustainability Prize** | 2026 | 🌍 Semi-finalist |
-| **Temasek Singapore** | 2026 | 🎯 Top 8 Finalist |
-| **Gulbenkian Prize for Humanity** | 2026 | 📝 Nominee |
-| **Alexander von Humboldt Foundation** | 2026 | 🎓 Host Researcher (Water Section) |
+Three Cardinal Codes:
+3 – Water-Food-Energy Nexus
+7 – Full Water Cycle Sanctity
+12 – Polycultural Agricultural Rhythm
 
----
+48 peer-reviewed publications in Springer, Elsevier, Nature, CERN, ZENODO, and PhilPapers.
 
-## 📚 Publications
+International Certificates
 
-**Recent Publication:**
-> *"AquaNumerica: A Philosophical-Numerical Framework for Integrated Water-Food-Climate Resilience"*  
-> Vahid Nezamivand Chegane, 2026  
-> Zenodo | Open Access | Field-tested in Iran (AquaNexus Pilot, 50 households)
+A verified collection of 180+ international certificates in AI, water-climate systems, surgical decision support, and sustainability ethics — issued by Oxford, Cambridge, Stanford, Johns Hopkins, UCL, King's College London, Durham, Lancaster, Imperial College London, and Edinburgh.
 
-**Three Cardinal Codes:**
-- **3** – Water-Food-Energy Nexus
-- **7** – Full Water Cycle Sanctity
-- **12** – Polycultural Agricultural Rhythm
+Access the full portfolio:
+tinyurl.com/Vahid-nezamivand-chegane
 
-**48 peer-reviewed publications** in international journals and conferences.
+Academic Profiles
 
----
+Zenodo Publications: tinyurl.com/nezamivand-zenodo
+ORCID: 0009-0003-6477-091X
+Certificates: tinyurl.com/Vahid-nezamivand-chegane
+Project Website: https://Vahid-nezamivand-chegane.github.io
+LinkedIn: https://www.linkedin.com/in/vahid-nezamevand-chegane
 
-## 📁 International Certificates
+Contact Information
 
-A verified collection of **180+ international certificates** in AI, water-climate systems, surgical decision support, and sustainability ethics — issued by leading global institutions including **Oxford, Cambridge, Stanford, Johns Hopkins, UCL, King's College London, Durham, Lancaster, Imperial College London, and Edinburgh**.
+Project Email: vahid.aquanexus@protonmail.com
+General Email: vahidmaykoltarh@yahoo.com
+Phone: +98 990 181 4212
 
-🔗 **Access the full portfolio:**  
-[`tinyurl.com/Vahid-nezamivand-chegane`](https://tinyurl.com/Vahid-nezamivand-chegane)
+Current Status: In advanced negotiations with 9 sovereign funds and 120 global companies | Meeting with SOCAR Green scheduled for September 2026 | Boundless San Francisco Competition application submitted | ARIA Programme Director application submitted
 
----
-
-## 🔗 Academic Profiles
-
-- 📚 **Zenodo Publications:** [`tinyurl.com/nezamivand-zenodo`](https://tinyurl.com/nezamivand-zenodo)
-- 🆔 **ORCID:** [0009-0003-6477-091X](https://orcid.org/0009-0003-6477-091X)
-- 📁 **Certificates:** [`tinyurl.com/Vahid-nezamivand-chegane`](https://tinyurl.com/Vahid-nezamivand-chegane)
-- 🌐 **Project Website:** [`https://Vahid-nezamivand-chegane.github.io`](https://Vahid-nezamivand-chegane.github.io)
-- 💼 **LinkedIn:**[`https://www.linkedin.com/in/vahid-nezamevand-chegane`]
-
-## 📧 Contact Information
-
-- **Project Email:** `vahid.aquanexus@protonmail.com`
-
----
-
-**Current Status:** In advanced negotiations with 20+ international investment entities | Meeting with SOCAR Green scheduled for September 2026
+"Healing the cell, healing the soil, healing the cycle — through integrated systems thinking and evidence-based innovation."
