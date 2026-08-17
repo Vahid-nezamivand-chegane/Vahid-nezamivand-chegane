@@ -1,62 +1,133 @@
-Vahid Nezamivand Chegane
-Interdisciplinary Researcher | Systems Architect | Founder of AquaNexus Project
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Interdisciplinary+Researcher;Systems+Architect;Founder+of+AquaNexus+Project;Water-Energy-Food+Nexus+Designer" alt="Typing SVG" />
+</p>
 
-About Me
+<h1 align="center">Vahid Nezamivand Chegane</h1>
+<p align="center">
+  <em>“Healing the cell, healing the soil, healing the cycle — through integrated systems thinking and evidence-based innovation.”</em>
+</p>
 
-Independent researcher and systems architect with over 10 years of experience in water, energy, geothermal systems, AI, and sustainable infrastructure. Founder of the AquaNexus project – a fully integrated zero-carbon platform delivering 7 independent revenue streams: 24/7 baseload power, fresh water, lithium, precious metals, 4-season agriculture, district heating/cooling, and geothermal tourism. The platform is scalable from 100 MW to 1,000 GW, with a total project value exceeding $10 billion.
+<p align="center">
+  <a href="https://Vahid-nezamivand-chegane.github.io">
+    <img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vahid-nezamevand-chegane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0003-6477-091X">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=fa&user=xzV6BLcAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>
 
-Currently in advanced negotiations with 9 sovereign wealth funds and 120 global companies, including OIA Oman, PIF Saudi Arabia, Mubadala UAE, ADIA UAE, QIA Qatar, KIA Kuwait, Temasek Singapore, GIC Singapore, and GPIF Japan.
+---
 
-Field Projects
+## 🔬 About Me
 
-AquaNexus Pilot (Iran) – 500 Households
-67% reduction in municipal water consumption
-120 kg/year/household food production
-2.5 tCO₂e saved per household per year
-70% women-led green jobs creation
+Independent researcher and systems architect with **10+ years** of experience in **geothermal energy, water-energy-food systems, AI-driven sustainability, and circular economy**. Founder of the **AquaNexus** project — a fully integrated zero-carbon platform delivering **7 independent revenue streams**: 24/7 baseload power, fresh water, lithium, precious metals, 4-season agriculture, district heating/cooling, and geothermal tourism.
 
-Awards and Recognition
+Currently in advanced negotiations with **9 sovereign wealth funds** and **120 global companies**, including OIA (Oman), PIF (Saudi Arabia), Mubadala (UAE), ADIA (UAE), QIA (Qatar), KIA (Kuwait), Temasek (Singapore), GIC (Singapore), and GPIF (Japan).
 
-Energy Globe Award 2024 - National Winner (Iran)
-Zayed Sustainability Prize 2026 - Semi-finalist
-Temasek Singapore 2026 - Top 8 Finalist
-Gulbenkian Prize for Humanity 2026 - Official Nominee
-Alexander von Humboldt Foundation 2026 - Host Researcher (Water Section) – Declined to prioritise Oman
+---
 
-Publications
+## 🏆 Awards & Recognition
 
-Recent Publication:
-"AquaNumerica: A Philosophical-Numerical Framework for Integrated Water-Food-Climate Resilience"
-Vahid Nezamivand Chegane, 2026 – Zenodo | Open Access
+| Award | Year | Status |
+|:---|:---|:---|
+| **Energy Globe Award** | 2024 | 🏆 National Winner (Iran) |
+| **Zayed Sustainability Prize** | 2026 | 🌍 Semi-finalist |
+| **Temasek Singapore** | 2026 | 🎯 Top 8 Finalist |
+| **Gulbenkian Prize for Humanity** | 2026 | 📝 Official Nominee |
+| **Alexander von Humboldt** | 2026 | 🎓 Host Researcher (Declined) |
 
-Three Cardinal Codes:
-3 – Water-Food-Energy Nexus
-7 – Full Water Cycle Sanctity
-12 – Polycultural Agricultural Rhythm
+---
 
-48 peer-reviewed publications in Springer, Elsevier, Nature, CERN, ZENODO, and PhilPapers.
+## 🔥 Flagship Projects
 
-International Certificates
+### 🌍 AquaNexus + Aqua Guardian
+A sovereign-scale geothermal platform delivering 7 revenue streams:
+- **⚡ 100 MW** baseload power (24/7, zero carbon)
+- **💧 50,000 m³/day** fresh water
+- **🔋 12,000 t/year** battery-grade lithium
+- **🌱 100 hectares** 4-season agriculture
+- **❄️ 20 MW** district heating & cooling
+- **♨️ Geothermal tourism** & hot springs
+- **🌿 220,000 tCO₂/year** reduction
 
-A verified collection of 180+ international certificates in AI, water-climate systems, surgical decision support, and sustainability ethics — issued by Oxford, Cambridge, Stanford, Johns Hopkins, UCL, King's College London, Durham, Lancaster, Imperial College London, and Edinburgh.
+### 🏗️ 3-7-12 Self‑Sufficient Building System
+- **120‑year** service life
+- **Multi‑hazard resilient** (earthquake, typhoon, tsunami, flood, lightning)
+- **Zero‑utility** (water, energy, waste self‑sufficient)
+- **100% prefabricated**, deployable anywhere
 
-Access the full portfolio:
-tinyurl.com/Vahid-nezamivand-chegane
+### 🧬 Rewriting the Threads of Heredity
+- **Animal‑inspired limb regeneration** algorithm
+- **72.5%** morphological regeneration in rats
+- **Seven‑step protocol** for human application
 
-Academic Profiles
+### ☢️ Time‑Accelerated Geology for Nuclear Waste
+- **Nature‑inspired** neutralisation of nuclear waste
+- **Accelerated kinetics**: 10,000 years → 10 days
+- **Open‑source**, patent‑free solution
 
-Zenodo Publications: tinyurl.com/nezamivand-zenodo
-ORCID: 0009-0003-6477-091X
-Certificates: tinyurl.com/Vahid-nezamivand-chegane
-Project Website: https://Vahid-nezamivand-chegane.github.io
-LinkedIn: https://www.linkedin.com/in/vahid-nezamevand-chegane
+---
 
-Contact Information
+## 📚 Publications
 
-Project Email: vahid.aquanexus@protonmail.com
-General Email: vahidmaykoltarh@yahoo.com
-Phone: +98 990 181 4212
+**48 peer‑reviewed publications** in Springer, Elsevier, Nature, CERN, ZENODO, PhilPapers.
 
-Current Status: In advanced negotiations with 9 sovereign funds and 120 global companies | Meeting with SOCAR Green scheduled for September 2026 | Boundless San Francisco Competition application submitted | ARIA Programme Director application submitted
+**Recent:**
+> *"AquaNumerica: A Philosophical‑Numerical Framework for Integrated Water‑Food‑Climate Resilience"* (Zenodo, 2026)
 
-"Healing the cell, healing the soil, healing the cycle — through integrated systems thinking and evidence-based innovation."
+**Three Cardinal Codes:**
+- **3** – Water‑Food‑Energy Nexus
+- **7** – Full Water Cycle Sanctity
+- **12** – Polycultural Agricultural Rhythm
+
+---
+
+## 📁 International Certificates
+
+A verified collection of **180+ international certificates** from:
+- **University of Oxford**
+- **University of Cambridge**
+- **Stanford University**
+- **Johns Hopkins University**
+- **UCL, King's College London, Durham, Lancaster, Imperial College London, Edinburgh**
+
+🔗 [Full Portfolio](https://tinyurl.com/Vahid-nezamivand-chegane)
+
+---
+
+## 🔗 Academic Profiles
+
+| Platform | Link |
+|:---|:---|
+| **Website** | [Vahid-nezamivand-chegane.github.io](https://Vahid-nezamivand-chegane.github.io) |
+| **ORCID** | [0009-0003-6477-091X](https://orcid.org/0009-0003-6477-091X) |
+| **Google Scholar** | [Scholar Profile](https://scholar.google.com/citations?hl=fa&user=xzV6BLcAAAAJ) |
+| **Zenodo** | [tinyurl.com/nezamivand-zenodo](https://tinyurl.com/nezamivand-zenodo) |
+| **LinkedIn** | [LinkedIn Profile](https://www.linkedin.com/in/vahid-nezamevand-chegane) |
+
+---
+
+## 📫 Contact
+
+| Email | Address |
+|:---|:---|
+| **Project Email** | `vahid.aquanexus@protonmail.com` |
+| **General Email** | `vahidmaykoltarh@yahoo.com` |
+| **Phone** | `+98 990 181 4212` |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vahid-nezamivand-chegane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vahid-nezamivand-chegane&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <i>"We are not a drop in the ocean; the ocean is within the drop. Read the 3-7-12 codes to rebuild the world."</i>
+</p>
