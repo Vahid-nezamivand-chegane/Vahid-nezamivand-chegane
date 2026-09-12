@@ -28,7 +28,6 @@
 
 Independent researcher and systems architect with **10+ years** of experience in **geothermal energy, water-energy-food systems, AI-driven sustainability, and circular economy**. Founder of the **AquaNexus** project — a fully integrated zero-carbon platform delivering **7 independent revenue streams**: 24/7 baseload power, fresh water, lithium, precious metals, 4-season agriculture, district heating/cooling, and geothermal tourism.
 
-Currently in advanced negotiations with **9 sovereign wealth funds** and **120 global companies**, including OIA (Oman), PIF (Saudi Arabia), Mubadala (UAE), ADIA (UAE), QIA (Qatar), KIA (Kuwait), Temasek (Singapore), GIC (Singapore), and GPIF (Japan).
 
 ---
 
