@@ -76,7 +76,7 @@ A sovereign-scale geothermal platform delivering 7 revenue streams:
 
 ## 📚 Publications
 
-**48 peer‑reviewed publications** in Springer, Elsevier, Nature, CERN, ZENODO, PhilPapers.
+**48 peer‑reviewed publications** in OpenAIRE ,CERN, ZENODO, PhilPapers.
 
 **Recent:**
 > *"AquaNumerica: A Philosophical‑Numerical Framework for Integrated Water‑Food‑Climate Resilience"* (Zenodo, 2026)
@@ -117,7 +117,6 @@ A verified collection of **180+ international certificates** from:
 
 | Email | Address |
 |:---|:---|
-| **Project Email** | `vahid.aquanexus@protonmail.com` |
 | **General Email** | `vahidmaykoltarh@yahoo.com` |
 
 
