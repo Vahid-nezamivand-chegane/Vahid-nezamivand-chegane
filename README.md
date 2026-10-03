@@ -24,44 +24,38 @@
 - 🌍 **Climate Resilience** — circular economy and sustainable systems
 - 🔋 **Critical Materials** — lithium and strategic minerals
 
-Founder of **AquaNexus** — an integrated zero-carbon platform with **7 revenue streams**: baseload power, fresh water, lithium, precious metals, 4-season agriculture, district heating/cooling, and geothermal tourism.
+Founder of **AquaNexus** — an integrated zero-carbon platform with **7 revenue streams**.
 
 ---
 
-## 🏆 Recognitions
+## 🏆 Recognition
 
 | Year | Award |
 | :---: | :--- |
-| **2024** | 🥇 **National Winner**, Energy Globe Award (Water Sustainability, Iran) |
+| **2024** | 🥇 **National Winner**, Energy Globe Award (Water Sustainability) |
 | **2026** | 🥈 **Top 8 Finalist**, Temasek Liveability Challenge (Singapore) |
-| **2026** | 🥉 **Semi-Finalist**, Zayed Sustainability Prize (Water Category, UAE) |
+| **2026** | 🥉 **Semi-Finalist**, Zayed Sustainability Prize (Water Category) |
 | **2026** | 🎓 **Host Researcher**, Alexander von Humboldt Foundation (Germany) |
 
 ---
 
-## 📄 Research Output
+## 📚 Research Portfolio
 
-- 📚 **30+ open-access publications** and preprints (Zenodo, Research Square, PhilArchive)
-- 📊 **Research dossiers** in preparation on Harvard Dataverse
-- 🎖️ **180+ international certifications** in AI, water management, climate, and public health
+**→ [Browse Full Research Portfolio](https://github.com/Vahid-nezamivand-chegane/AquaNexus-Research)**
 
----
-
-## 📌 Featured Projects
-
-| 🚀 Project | Description |
-| :--- | :--- |
-| [**AquaNexus**](https://vahid-nezamivand-chegane.github.io) | Integrated infrastructure platform for water, energy, food, and critical materials |
-| [**Technical Writing Portfolio**](https://github.com/Vahid-nezamivand-chegane/technical-writing-portfolio) | Selected research papers and technical documentation |
-| [**AI Surgical Intelligence**](https://github.com/Vahid-nezamivand-chegane/AI-Surgical-Intelligence-Framework) | Conceptual framework for AI-assisted surgical decision support |
+Categories:
+- ⚡ Energy · Water · Climate
+- 🤖 Artificial Intelligence
+- 🏥 Medicine & Health
+- 🧠 Philosophy & Numbers
+- 📊 Economics & Policy
+- ⚛️ Nuclear & Materials
 
 ---
 
 ## 🌍 Languages
 
-**English** · **Persian (Farsi)**
-
-📍 **Based in Iran**
+**English** · **Persian (Farsi)** · 📍 Based in Iran
 
 ---
 
