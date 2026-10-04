@@ -8,10 +8,34 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--6477--091X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6477-091X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahid-nezamevand-chegane)
 
-[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=xzV6BLcAAAAJ)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Publications-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/me/uploads)
-
 </div>
+
+---
+
+## ⚖️ Copyright & Intellectual Property
+
+**© 2026 Vahid Nezamivand Chegane. All Rights Reserved.**
+
+All content across my repositories — research papers, frameworks, methodologies, technical documentation, financial models, and data — is my **exclusive intellectual property**.
+
+### ❌ Prohibited Without Written Permission
+
+- **Commercial use** — for profit, products, or business operations
+- **Copying or reproduction** — in any form, digital or physical
+- **Distribution** — uploading to other platforms or sharing with third parties
+- **Modification** — derivative works, adaptations, or translations
+- **AI training** — feeding content to machine learning models
+- **Patent filing** — based on any concept, method, or framework described
+
+### ✅ Permitted
+
+- **Academic citation** — with proper attribution and DOI/URL
+- **Personal study** — reading and review for education
+- **Collaboration inquiry** — contacting me for partnership
+
+**📩 For permission:** vahid.nezamivand@proton.me
+
+Any unauthorized use will be pursued under applicable copyright, intellectual property, and commercial law.
 
 ---
 
