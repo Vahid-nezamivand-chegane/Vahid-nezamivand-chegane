@@ -33,7 +33,7 @@ All content across my repositories — research papers, frameworks, methodologie
 - **Personal study** — reading and review for education
 - **Collaboration inquiry** — contacting me for partnership
 
-**📩 For permission:** vahid.nezamivand@proton.me
+**📩 For permission:** vahidmaykoltarh@yahoo.com
 
 Any unauthorized use will be pursued under applicable copyright, intellectual property, and commercial law.
 
