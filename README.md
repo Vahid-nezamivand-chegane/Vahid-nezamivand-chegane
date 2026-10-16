@@ -1,35 +1,55 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                                                                                 -->
-<!--     █████╗  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗ -->
-<!--    ██╔══██╗██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝ -->
-<!--    ███████║██║   ██║██║   ██║███████║██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗ -->
-<!--    ██╔══██║██║▄▄ ██║██║   ██║██╔══██║██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║ -->
-<!--    ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║ -->
-<!--    ╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝ -->
+<!--      █████╗  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗ -->
+<!--     ██╔══██╗██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝ -->
+<!--     ███████║██║   ██║██║   ██║███████║██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║███████╗ -->
+<!--     ██╔══██║██║▄▄ ██║██║   ██║██╔══██║██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║╚════██║ -->
+<!--     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝███████║ -->
+<!--     ╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝ -->
 <!--                                                                                 -->
-<!--                    A REVOLUTION IN INTEGRATED INFRASTRUCTURE                    -->
+<!--                    FROM ONE HOUSEHOLD TO INFINITY                              -->
 <!--                                                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,25:0a2a44,50:1a6fb5,75:2a9d8f,100:00d4ff&height=280&section=header&text=VAHID%20NEZAMIVAND%20CHEGANE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=⚡%20Systems%20Architect%20%7C%20🌍%20Planetary%20Engineer%20%7C%20🔬%20Interdisciplinary%20Researcher&descSize=20&descAlignY=65&stroke=00d4ff&strokeWidth=2" width="100%" />
+<!-- ═══════ ANIMATED HEADER — NO OVERLAP ═══════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a2a44,25:1a6fb5,50:2a9d8f,75:e9c46a,100:ff6b35&height=240&section=header&text=Vahid%20Nezamivand%20Chegane&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=Systems%20Architect%20%7C%20Planetary%20Engineer&descSize=20&descAlignY=65" width="100%" />
 
 </div>
 
+<!-- ═══════ AQUANEXUS — BRAND LOGO SECTION ═══════ -->
 <div align="center">
 
-<a href="https://vahid-nezamivand-chegane.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+the+infrastructure+of+the+next+century.;One+well.+Seven+outputs.+Zero+waste.;Where+geothermal+heat+becomes+water%2C+food%2C+energy%2C+and+lithium." alt="Typing SVG" />
-</a>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=72&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=AQUANEXUS" alt="AQUANEXUS" />
+</h1>
 
-</div>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=500&color=E9C46A&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=⚡+Integrated+Zero-Carbon+Geothermal+Platform+⚡" alt="Tagline" />
+</h3>
 
 <br>
 
-<div align="center">
+**One Well · Seven Outputs · Zero Waste**
 
-<img src="https://komarev.com/ghpvc/?username=Vahid-nezamivand-chegane&label=PROFILE+VISITORS&color=00d4ff&style=for-the-badge" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="75%" />
+
+<br>
+
+<a href="https://vahid-nezamivand-chegane.github.io">
+  <img src="https://img.shields.io/badge/⚡_EXPLORE_AQUANEXUS-0a2a44?style=for-the-badge&labelColor=00d4ff&logoColor=0a2a44" />
+</a>
+<a href="https://orcid.org/0009-0003-6477-091X">
+  <img src="https://img.shields.io/badge/🔬_ORCID-0009--0003--6477--091X-A6CE39?style=for-the-badge&labelColor=0a2a44" />
+</a>
+
+<br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vahid-nezamivand-chegane&label=VISITORS&color=00d4ff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-2a9d8f?style=for-the-badge&logo=statuspage&logoColor=white" />
 <img src="https://img.shields.io/badge/MISSION-PLANETARY_RESILIENCE-ff6b35?style=for-the-badge&logo=target&logoColor=white" />
 
@@ -39,9 +59,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              IDENTITY MATRIX                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              IDENTITY · MATRIX                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -82,15 +102,15 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                            THE MISSION STATEMENT                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              THE · MISSION                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## ⟨ THE · MISSION ⟩
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="75%" />
 
 <br>
 
@@ -105,7 +125,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="75%" />
 
 </div>
 
@@ -113,9 +133,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                            LIVE KPI DASHBOARD                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            LIVE KPI DASHBOARD                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -170,9 +190,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        THE PROBLEM — DRAMATIC PRESENTATION                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                              THE · PROBLEM                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -248,9 +268,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         THE SOLUTION — CINEMATIC REVEAL                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          THE · SOLUTION — REVEAL                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -258,7 +278,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="70%" />
 
-### 🚀 **AQUANEXUS**
+<br>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=56&duration=5000&pause=1000&color=E9C46A&center=true&vCenter=true&width=700&height=80&lines=🌋+AQUANEXUS" alt="AQUANEXUS" />
+</h1>
 
 **Integrated Zero-Carbon Geothermal Platform**
 
