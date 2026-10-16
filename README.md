@@ -20,16 +20,12 @@
 <div align="center">
 
 <h1>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,2,5,30&height=120&section=header&text=AQUANEXUS&fontSize=75&fontColor=00d4ff&animation=twinkling&fontAlignY=55" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=AQUANEXUS&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=One%20Well%20·%20Seven%20Outputs%20·%20Zero%20Waste&descSize=18&descAlignY=80" width="80%" />
 </h1>
 
 <h3>
   <strong>⚡ Integrated Zero-Carbon Geothermal Platform ⚡</strong>
 </h3>
-
-<br>
-
-**One Well · Seven Outputs · Zero Waste**
 
 <br>
 
@@ -259,7 +255,7 @@
 <br>
 
 <h1>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,2,5,30&height=100&section=header&text=🌋%20AQUANEXUS&fontSize=60&fontColor=e9c46a&animation=twinkling&fontAlignY=55" width="60%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=AQUANEXUS&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="75%" />
 </h1>
 
 **Integrated Zero-Carbon Geothermal Platform**
