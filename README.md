@@ -13,20 +13,18 @@
 
 <div align="center">
 
-<!-- ═══════ ANIMATED HEADER — NO OVERLAP ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a2a44,25:1a6fb5,50:2a9d8f,75:e9c46a,100:ff6b35&height=240&section=header&text=Vahid%20Nezamivand%20Chegane&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=Systems%20Architect%20%7C%20Planetary%20Engineer&descSize=20&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Vahid%20Nezamivand%20Chegane&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Architect%20%7C%20Planetary%20Engineer&descSize=20&descAlignY=65" width="100%" />
 
 </div>
 
-<!-- ═══════ AQUANEXUS — BRAND LOGO SECTION ═══════ -->
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=72&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=AQUANEXUS" alt="AQUANEXUS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,2,5,30&height=120&section=header&text=AQUANEXUS&fontSize=75&fontColor=00d4ff&animation=twinkling&fontAlignY=55" width="70%" />
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=500&color=E9C46A&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=50&lines=⚡+Integrated+Zero-Carbon+Geothermal+Platform+⚡" alt="Tagline" />
+  <strong>⚡ Integrated Zero-Carbon Geothermal Platform ⚡</strong>
 </h3>
 
 <br>
@@ -58,10 +56,6 @@
 <br>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              IDENTITY · MATRIX                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -102,10 +96,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              THE · MISSION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## ⟨ THE · MISSION ⟩
@@ -132,10 +122,6 @@
 <br>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                            LIVE KPI DASHBOARD                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -189,10 +175,6 @@
 <br>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              THE · PROBLEM                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -268,10 +250,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          THE · SOLUTION — REVEAL                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## ⟨ THE · SOLUTION ⟩
@@ -281,7 +259,7 @@
 <br>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=56&duration=5000&pause=1000&color=E9C46A&center=true&vCenter=true&width=700&height=80&lines=🌋+AQUANEXUS" alt="AQUANEXUS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,2,5,30&height=100&section=header&text=🌋%20AQUANEXUS&fontSize=60&fontColor=e9c46a&animation=twinkling&fontAlignY=55" width="60%" />
 </h1>
 
 **Integrated Zero-Carbon Geothermal Platform**
