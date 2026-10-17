@@ -82,7 +82,7 @@
 <td align="center" width="25%">
 
 ### 🌍 WEBSITE
-[`aquanexus.io`](https://vahid-nezamivand-chegane.github.io)
+(https://vahid-nezamivand-chegane.github.io)
 
 </td>
 </tr>
