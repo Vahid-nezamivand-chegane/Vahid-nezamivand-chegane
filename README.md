@@ -82,7 +82,6 @@
 <td align="center" width="25%">
 
 ### 🌍 WEBSITE
-[(https://vahid-nezamivand-chegane.github.io]
 (https://vahid-nezamivand-chegane.github.io)
 </td>
 </tr>
